@@ -124,7 +124,7 @@ print(mejor_solucion)
 # Estructura mejor solucion (super rectangulo formado por subrectangulos)
 # Cada subrectangulo es una tupla del tipo (x,y,alto,ancho)
 # x e y son las coordenadas horizontal y vertical de la esquina inferior izquierda del subrectángulo dentro del superrectángulo.
-# alto y ancho son la altura y anchura del superrectángulo.
+# alto y ancho son la altura y anchura del subrectangulo..
 
 
 print("Desperdicio:", mejor_desperdicio)
